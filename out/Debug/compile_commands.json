@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/poe/dev/owl/out/Debug",
+  "command": "/usr/bin/c++   -g -std=gnu++23 -I/usr/include -o CMakeFiles/owl.dir/src/Clay.cpp.o -c /home/poe/dev/owl/src/Clay.cpp",
+  "file": "/home/poe/dev/owl/src/Clay.cpp",
+  "output": "CMakeFiles/owl.dir/src/Clay.cpp.o"
+},
+{
+  "directory": "/home/poe/dev/owl/out/Debug",
+  "command": "/usr/bin/c++   -g -std=gnu++23 -I/usr/include -o CMakeFiles/owl.dir/src/Gui.cpp.o -c /home/poe/dev/owl/src/Gui.cpp",
+  "file": "/home/poe/dev/owl/src/Gui.cpp",
+  "output": "CMakeFiles/owl.dir/src/Gui.cpp.o"
+},
+{
+  "directory": "/home/poe/dev/owl/out/Debug",
+  "command": "/usr/bin/c++   -g -std=gnu++23 -I/usr/include -o CMakeFiles/owl.dir/src/ImageLoader.cpp.o -c /home/poe/dev/owl/src/ImageLoader.cpp",
+  "file": "/home/poe/dev/owl/src/ImageLoader.cpp",
+  "output": "CMakeFiles/owl.dir/src/ImageLoader.cpp.o"
+},
+{
+  "directory": "/home/poe/dev/owl/out/Debug",
+  "command": "/usr/bin/c++   -g -std=gnu++23 -I/usr/include -o CMakeFiles/owl.dir/src/Reproductor.cpp.o -c /home/poe/dev/owl/src/Reproductor.cpp",
+  "file": "/home/poe/dev/owl/src/Reproductor.cpp",
+  "output": "CMakeFiles/owl.dir/src/Reproductor.cpp.o"
+},
+{
+  "directory": "/home/poe/dev/owl/out/Debug",
+  "command": "/usr/bin/c++   -g -std=gnu++23 -I/usr/include -o CMakeFiles/owl.dir/src/main.cpp.o -c /home/poe/dev/owl/src/main.cpp",
+  "file": "/home/poe/dev/owl/src/main.cpp",
+  "output": "CMakeFiles/owl.dir/src/main.cpp.o"
+}
+]
