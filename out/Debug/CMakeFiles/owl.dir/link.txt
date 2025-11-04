@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/owl.dir/link.d CMakeFiles/owl.dir/src/Clay.cpp.o CMakeFiles/owl.dir/src/Gui.cpp.o CMakeFiles/owl.dir/src/ImageLoader.cpp.o CMakeFiles/owl.dir/src/Reproductor.cpp.o CMakeFiles/owl.dir/src/main.cpp.o -o bin/owl  /usr/lib/libraylib.so -lvlc -L/usr/lib -lraylib
